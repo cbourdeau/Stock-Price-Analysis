@@ -11,8 +11,8 @@
 
 ### Files
 
-* [Stock Data Raw](Raw_Data/stock_data_raw.xlsx) - Run your scripts on this data to generate the final homework report.
-* [Stock Data w/VBA](Raw_Data/stock_data_wVBA.xlsm) - Run your scripts on this data to generate the final homework report.
+* [Stock Data Raw](Raw_Data/stock_data_raw.xlsx)
+* [Stock Data w/VBA](Raw_Data/stock_data_wVBA.xlsm)
 
 ## Results
 
