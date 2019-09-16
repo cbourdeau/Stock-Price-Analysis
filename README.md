@@ -16,13 +16,16 @@
 
 ## Results
 
-### Part 1
+### Initial File
+![Part 0](Images/part0.png)
+
+### Part 1 - Tickers & Total Stock Volumes 
 ![Part 1](Images/part1.png)
 
-### Part 2
+### Part 2 - Yearly Change, Percent Change, Conditional Formatting
 ![Part 2](Images/part2.png)
 
-### Part 3
+### Part 3 - Summary Dashboard - Greatest Increases, Decreases and Volume
 ![Part 3](Images/part3.png)
 
 ## Key Technical Skills Applied
