@@ -17,13 +17,13 @@
 
 ## Results
 
-Part 1
+### Part 1
 ![Part 1](Images/part1.png)
 
-Part 2
+### Part 2
 ![Part 2](Images/part2.png)
 
-Part 3
+### Part 3
 ![Part 3](Images/part3.png)
 
 ## Key Technical Skills Applied
