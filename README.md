@@ -15,7 +15,7 @@
 * [Stock Data Raw](Raw_Data/stock_data_raw.xlsx) - Run your scripts on this data to generate the final homework report.
 * [Stock Data w/VBA](Raw_Data/stock_data_wVBA.xlsm) - Run your scripts on this data to generate the final homework report. -->
 
-### Results
+## Results
 
 Part 1
 ![Part 1](Images/part1.png)
@@ -26,7 +26,7 @@ Part 2
 Part 3
 ![Part 3](Images/part3.png)
 
-### Key Technical Skills Applied
+## Key Technical Skills Applied
 
 * Excel
 * Visual Basic
