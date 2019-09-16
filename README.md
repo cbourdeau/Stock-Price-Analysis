@@ -16,7 +16,7 @@
 
 ## Results
 
-### Initial File
+### Part 0 - Raw Stock Data
 ![Part 0](Images/part0.png)
 
 ### Part 1 - Tickers & Total Stock Volumes 
