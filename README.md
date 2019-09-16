@@ -1,4 +1,4 @@
-# Stock Analysis using VBA
+# Stock Price Analysis
 
 ![Stock Image](Images/stockmarket.jpg)
 
@@ -10,17 +10,20 @@
 4. Determine the stock with the "Greatest % Increase", "Greatest % Decrease" and "Greatest Total Volume"
 5. Allow this macro to be run on every worksheet by running it only once
 
-### Files
+<!-- ### Files
 
 * [Stock Data Raw](Raw_Data/stock_data_raw.xlsx) - Run your scripts on this data to generate the final homework report.
-* [Stock Data w/VBA](Raw_Data/stock_data_wVBA.xlsm) - Run your scripts on this data to generate the final homework report.
+* [Stock Data w/VBA](Raw_Data/stock_data_wVBA.xlsm) - Run your scripts on this data to generate the final homework report. -->
 
 ### Results
 
+Part 1
 ![Part 1](Images/part1.png)
 
+Part 2
 ![Part 2](Images/part2.png)
 
+Part 3
 ![Part 3](Images/part3.png)
 
 ### Key Technical Skills Applied
