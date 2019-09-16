@@ -11,8 +11,8 @@
 
 ### Files
 
-* [Stock Data Raw](Raw_Data/stock_data_raw.xlsx)
-* [Stock Data w/VBA](Raw_Data/stock_data_wVBA.xlsm)
+* [Stock Data Raw](Excel_Files/stock_data_raw.xlsx)
+* [Stock Data w/VBA](Excel_Files/stock_data_wVBA.xlsm)
 
 ## Results
 
