@@ -4,11 +4,10 @@
 
 ## Business Requirements
 
-1. Calculate the total volume each stock had over each year
-2. Calculate the yearly dollar and percent change from the stock open price at the beginning of the year vs the closing price at the end of the year
-    - Create conditional formatting that will highlight increases in stock price in green and decreases in red
-3. Determine the stock with the "Greatest % Increase", "Greatest % Decrease" and "Greatest Total Volume"
-    - Allow this macro to be run on every worksheet by running it only once
+1. Calculate the total volume each stock had over each year.
+2. Calculate the yearly dollar and percent change from the stock open price at the beginning of the year vs the closing price at the end of the year. Then conditionally format the yearly change with green indicating an increase, while red indicates a decrease.
+3. Determine the stock with the "Greatest % Increase", "Greatest % Decrease" and "Greatest Total Volume".
+    - Allow this macro to be run on every worksheet by running it only once.
 
 <!-- ### Files
 
